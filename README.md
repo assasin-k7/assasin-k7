@@ -31,8 +31,8 @@ With over 12 years of experience in the field of compliance, I bring a deep unde
 ### &nbsp; STRENGTHS 👋
 
 Strategic Planning: Developed and implemented strategic compliance plans for 3 major corporations, resulting in 100% audit pass rates.
-Team Leadership: Led a team of 10 compliance officers, fostering a culture of continuous learning and improvement.&nbsp &nbsp &nbsp
-Risk Management: Managed risk assessment processes, identifying and mitigating potential compliance issues.
+Team Leadership: Led a team of 10 compliance officers, fostering a culture of continuous learning and improvement.
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
