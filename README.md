@@ -30,8 +30,8 @@ With over 12 years of experience in the field of compliance, I bring a deep unde
 
 ### &nbsp; STRENGTHS 👋
 
-Strategic Planning: Developed and implemented strategic compliance plans for 3 major corporations, resulting in 100% audit pass rates.
-Team Leadership: Led a team of 10 compliance officers, fostering a culture of continuous learning and improvement.
+<p>Strategic Planning: Developed and implemented strategic compliance plans for 3 major corporations, resulting in 100% audit pass rates.</p>
+<p></p>Team Leadership: Led a team of 10 compliance officers, fostering a culture of continuous learning and improvement.</P>
 
 
 <div align="left">
