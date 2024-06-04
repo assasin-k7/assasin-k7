@@ -1,5 +1,5 @@
 ### &nbsp; About Me 👋
-
+With over 12 years of experience in the field of compliance, I bring a deep understanding of regulatory requirements and a proven track record of developing and implementing effective compliance programs. My technical skills include data analysis and the use of various software tools to enhance compliance functions. One of my biggest career achievements is maintaining a 100% audit pass rate throughout my career.
 <h1 align="center">
   <a href="/">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
@@ -27,7 +27,9 @@
   </a>
   <br/>
 </h1>
+
 ### &nbsp; About Me 👋
+
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
