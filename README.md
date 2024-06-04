@@ -32,6 +32,7 @@ With over 12 years of experience in the field of compliance, I bring a deep unde
 
 <p>Strategic Planning: Developed and implemented strategic compliance plans for 3 major corporations, resulting in 100% audit pass rates.</p>
 <p></p>Team Leadership: Led a team of 10 compliance officers, fostering a culture of continuous learning and improvement.</P>
+<p>Risk Management: Mamaged risk assessment processes,identifying and mitigating potential compliance issues.</p>
 
 
 <div align="left">
