@@ -1,4 +1,4 @@
-## &nbsp; About Me 👋
+### &nbsp; About Me 👋
 Developed a decentralized supply chain solutionthat reduced costs by 20% and increased transparency for all stakeholders. 
 Created a secure blockchain-based voting systme that processed 100,000+ votes with zero frud incidents.
 <h1 align="center">
@@ -28,12 +28,8 @@ Created a secure blockchain-based voting systme that processed 100,000+ votes wi
   </a>
   <br/>
 </h1>
-### Skills: 
-Languages: Python, Solidity , Cadence, Rust , C++
-Blockchain and Web3 Development - Web3.js , Node.js , React , Truffle , Ganache , MetaMask
-Smart-contract integration development: DeFi platforms,, Crypto wallets, NFT Marketplaces
-Blockchain: Ethereum (ETH) and Binance Smart Chain (BSC), FLOW , Solana, Avalanche
-Tokens, smart-contract dApps and Blockchain Consulting and dApps Development 
+### &nbsp; About Me 👋
+- Blockchain Architecture: Understanding the foundational aspects of how blockchain technology works, including the concept of decentralization, consensus mechanisms, and the structure of blockchain.
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
