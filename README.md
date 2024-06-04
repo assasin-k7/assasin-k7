@@ -1,6 +1,5 @@
 ### &nbsp; About Me 👋
-Developed a decentralized supply chain solutionthat reduced costs by 20% and increased transparency for all stakeholders. 
-Created a secure blockchain-based voting systme that processed 100,000+ votes with zero frud incidents.
+
 <h1 align="center">
   <a href="/">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
@@ -28,6 +27,7 @@ Created a secure blockchain-based voting systme that processed 100,000+ votes wi
   </a>
   <br/>
 </h1>
+### &nbsp; About Me 👋
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
