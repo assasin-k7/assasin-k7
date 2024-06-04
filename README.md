@@ -1,5 +1,6 @@
 ## &nbsp; About Me 👋
-
+Developed a decentralized supply chain solutionthat reduced costs by 20% and increased transparency for all stakeholders. 
+Created a secure blockchain-based voting systme that processed 100,000+ votes with zero frud incidents.
 <!--
 **assasin-k7/assasin-k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
